@@ -20,10 +20,11 @@ The analysis include:
 
 -   Regression by classification tools
 
-1.  Decision Tree (DT) 2.Neutral Network (NN)
-2.  Support Vector Machine (SVM)
-3.  k Nearest Neighbor (kNN)
-4.  Random Forest (RF)
+1.  Decision Tree (DT)
+2.  Neutral Network (NN)
+3.  Support Vector Machine (SVM)
+4.  k Nearest Neighbor (kNN)
+5.  Random Forest (RF)
 
 Contact
 =======
