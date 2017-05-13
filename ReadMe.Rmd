@@ -34,4 +34,6 @@ The analysis include:
   4. k Nearest Neighbor (kNN)
   5. Random Forest (RF)
 
+# Contact
+
 Shi Wang (<shiwang0211@gmail.com>)
