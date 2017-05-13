@@ -11,19 +11,8 @@ The files under the folder include:
 
 The analysis include:
 
-1.  Typical regression methods
+1.Typical regression methods - Stepwise linear regression - Principle Component Regression (PCR) - Partial Least Square Regression (PLSR) - Ridge regression
 
--   Stepwise linear regression
--   Principle Component Regression (PCR)
--   Partial Least Square Regression (PLSR)
--   Ridge regression
-
-1.  Regression by classification tools
-
--   Decision Tree (DT)
--   Neutral Network (NN)
--   Support Vector Machine (SVM)
--   k Nearest Neighbor (kNN)
--   Random Forest (RF)
+2.Regression by classification tools - Decision Tree (DT) - Neutral Network (NN) - Support Vector Machine (SVM) - k Nearest Neighbor (kNN) - Random Forest (RF)
 
 Shi Wang (<shiwang0211@gmail.com>)
