@@ -1,7 +1,7 @@
 Overview
 ========
 
-This is a couse project for 15.077 Data Mining and Statistical Thinking at Massachusetts Institute of Technology.
+This is a course project for 15.077 Data Mining and Statistical Thinking at Massachusetts Institute of Technology.
 
 The files under the folder include:
 
